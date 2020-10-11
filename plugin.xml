@@ -45,7 +45,7 @@
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSMicrophoneUsageDescription">
-      <string>Pantrist wants to use microphone to process speech into text.</string>
+      <string>Pantrist wants to use your microphone to process speech into text.</string>
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSSpeechRecognitionUsageDescription">
