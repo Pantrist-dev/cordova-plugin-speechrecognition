@@ -45,11 +45,11 @@
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSMicrophoneUsageDescription">
-      <string>Request to use Microphone</string>
+      <string>Pantrist wants to use microphone to process speech into text.</string>
     </config-file>
 
     <config-file target="*-Info.plist" parent="NSSpeechRecognitionUsageDescription">
-      <string>Request to use Speech Recognition</string>
+      <string>Pantrist wants to use the speech recognition feature to extract words from your speech.</string>
     </config-file>
 
     <header-file src="src/ios/SpeechRecognition.h"/>
